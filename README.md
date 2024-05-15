@@ -4,7 +4,7 @@
 ssh-keygen
 ```
 
-ระบบจะแสดงข้อความสอบถามว่า `Enter file in which to save the key (/Users/[Your Username]/.ssh/id_ed25519): ` หากต้องเปลี่ยน Path ให้พิมพ์ Fullpath ลงไปเช่น
+ระบบจะแสดงข้อความสอบถามว่า `Enter file in which to save the key (/Users/[Your Username]/.ssh/id_999888): ` หากต้องเปลี่ยน Path ให้พิมพ์ Fullpath ลงไปเช่น
 `
 /Users/[Your Username]/certificate/[ชื่อ Key]
 `
